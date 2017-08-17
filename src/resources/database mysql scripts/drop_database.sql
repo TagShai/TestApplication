@@ -1,0 +1,1 @@
+DROP DATABASE IF EXISTS `plan_your_life`;
